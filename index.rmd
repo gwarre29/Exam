@@ -1,0 +1,22 @@
+---
+title: "Exam"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+5:30 Section
+
+Georgie Warren
+
+October 19th, 2017
+
+Here is some arithmetic:
+
+```{r}
+x<-5
+y<-6
+x^2+y^2
+```
